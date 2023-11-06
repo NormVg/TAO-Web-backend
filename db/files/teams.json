@@ -1,0 +1,28 @@
+{
+  "_default": {
+    "1": {
+      "name": "Alice Smith",
+      "disc": "Hello, I'm Alice Smith, known as NormVg. I'm a full-stack developer and the founder of TechPro Innovations.",
+      "tags": ["Web Development", "Founder", "UI/UX Design"],
+      "contact": {
+        "type": "Instagram",
+        "url": "https://instagram.com/alicesmith_dev"
+      }
+    },
+    "2": {
+      "name": "Samuel Johnson",
+      "disc": "Hi, I'm Samuel Johnson, also known as NormVg. I'm a software engineer and the founder of CodeCrafters.",
+      "tags": ["Software Development", "Founder", "Coding Enthusiast"],
+      "contact": { "type": "Twitter", "url": "https://twitter.com/sam_j_code" }
+    },
+    "3": {
+      "name": "Elena Ramirez",
+      "disc": "Greetings! I'm Elena Ramirez, a.k.a. NormVg. I'm a web developer and the co-founder of DesignMasters.",
+      "tags": ["Web Design", "Co-Founder", "Creative Professional"],
+      "contact": {
+        "type": "LinkedIn",
+        "url": "https://linkedin.com/in/elena_ramirez"
+      }
+    }
+  }
+}

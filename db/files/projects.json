@@ -1,0 +1,112 @@
+{
+  "_default": {
+    "1": {
+      "name": "TechWizards Inc.",
+      "one-line-disc": "Your digital transformation partner.",
+      "disc": "TechWizards Inc. is a leading technology company specializing in digital transformation solutions. We help businesses leverage cutting-edge technology to stay competitive in today's fast-paced market.",
+      "status": "Ongoing Projects",
+      "team-lead": "Alex Johnson",
+      "icon": "https://example.com/techwizards_icon.png",
+      "type": "Running",
+      "init-date": "2023-03-15",
+      "link": [
+        {
+          "type": "LinkedIn",
+          "url": "https://linkedin.com/company/techwizards"
+        },
+        { "type": "GitHub", "url": "https://github.com/techwizards" },
+        { "type": "Twitter", "url": "https://twitter.com/techwizards" }
+      ],
+      "team": [
+        {
+          "name": "Emily Davis",
+          "contact-url": "https://example.com/emilydavis",
+          "pfp": "https://example.com/emilydavis_profile.jpg",
+          "role": "Software Engineer"
+        },
+        {
+          "name": "John Smith",
+          "contact-url": "https://example.com/johnsmith",
+          "pfp": "https://example.com/johnsmith_profile.jpg",
+          "role": "UI/UX Designer"
+        },
+        {
+          "name": "Michael Chen",
+          "contact-url": "https://example.com/michaelchen",
+          "pfp": "https://example.com/michaelchen_profile.jpg",
+          "role": "Project Manager"
+        }
+      ]
+    },
+    "2": {
+      "name": "CreativeMinds Studio",
+      "one-line-disc": "Where creativity knows no bounds.",
+      "disc": "CreativeMinds Studio is a haven for artists and creators of all kinds. We provide a platform for talented individuals to express themselves and share their art with the world.",
+      "status": "Active",
+      "team-lead": "Sophia Martinez",
+      "icon": "https://example.com/creativeminds_icon.png",
+      "type": "Compleated",
+      "init-date": "2023-02-20",
+      "link": [
+        { "type": "Instagram", "url": "https://instagram.com/creativeminds" },
+        { "type": "DeviantArt", "url": "https://deviantart.com/creativeminds" },
+        { "type": "YouTube", "url": "https://youtube.com/creativeminds" }
+      ],
+      "team": [
+        {
+          "name": "Oliver Turner",
+          "contact-url": "https://example.com/oliverturner",
+          "pfp": "https://example.com/oliverturner_profile.jpg",
+          "role": "Digital Artist"
+        },
+        {
+          "name": "Mia Adams",
+          "contact-url": "https://example.com/miaadams",
+          "pfp": "https://example.com/miaadams_profile.jpg",
+          "role": "Animator"
+        },
+        {
+          "name": "Lucas Wilson",
+          "contact-url": "https://example.com/lucaswilson",
+          "pfp": "https://example.com/lucaswilson_profile.jpg",
+          "role": "Music Composer"
+        }
+      ]
+    },
+    "3": {
+      "name": "EcoSavers Foundation",
+      "one-line-disc": "Protecting our planet for future generations.",
+      "disc": "EcoSavers Foundation is a non-profit organization dedicated to environmental conservation. We work tirelessly to promote sustainable practices and protect the environment from the threats of climate change and pollution.",
+      "status": "Ongoing Campaigns",
+      "team-lead": "Sarah Johnson",
+      "icon": "https://example.com/ecosavers_icon.png",
+      "type": "Running",
+      "init-date": "2023-04-10",
+      "link": [
+        { "type": "Website", "url": "https://ecosavers.org" },
+        { "type": "Twitter", "url": "https://twitter.com/ecosavers" },
+        { "type": "Facebook", "url": "https://facebook.com/ecosavers" }
+      ],
+      "team": [
+        {
+          "name": "Liam Brown",
+          "contact-url": "https://example.com/liambrown",
+          "pfp": "https://example.com/liambrown_profile.jpg",
+          "role": "Environmental Scientist"
+        },
+        {
+          "name": "Sophie Clark",
+          "contact-url": "https://example.com/sophieclark",
+          "pfp": "https://example.com/sophieclark_profile.jpg",
+          "role": "Community Outreach Coordinator"
+        },
+        {
+          "name": "David Miller",
+          "contact-url": "https://example.com/davidmiller",
+          "pfp": "https://example.com/davidmiller_profile.jpg",
+          "role": "Fundraising Specialist"
+        }
+      ]
+    }
+  }
+}

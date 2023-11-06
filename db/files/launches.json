@@ -1,0 +1,61 @@
+{
+  "_default": {
+    "1": {
+      "name": "John Smith",
+      "one-line-disc": "Experienced professional in various industries.",
+      "img": "https://example.com/john_smith.png",
+      "disc": {
+        "d1": {
+          "one-liner": "Masters in Business Administration",
+          "disc": "I hold a Master's degree in Business Administration with a focus on strategic management."
+        },
+        "d2": {
+          "one-liner": "Technology Enthusiast",
+          "disc": "Passionate about emerging technologies and their impact on businesses."
+        },
+        "d3": {
+          "one-liner": "Problem Solver",
+          "disc": "Skilled at finding innovative solutions to complex challenges."
+        }
+      }
+    },
+    "2": {
+      "name": "Emily Johnson",
+      "one-line-disc": "Dedicated to environmental sustainability.",
+      "img": "https://example.com/emily_johnson.png",
+      "disc": {
+        "d1": {
+          "one-liner": "Environmental Activist",
+          "disc": "Committed to promoting eco-friendly practices and preserving the environment."
+        },
+        "d2": {
+          "one-liner": "Wildlife Conservationist",
+          "disc": "Working to protect endangered species and their natural habitats."
+        },
+        "d3": {
+          "one-liner": "Green Energy Advocate",
+          "disc": "Promoting the adoption of clean and renewable energy sources."
+        }
+      }
+    },
+    "3": {
+      "name": "Michael Davis",
+      "one-line-disc": "Passionate about art and creativity.",
+      "img": "https://example.com/michael_davis.png",
+      "disc": {
+        "d1": {
+          "one-liner": "Visual Artist",
+          "disc": "Creating captivating and thought-provoking artwork in various mediums."
+        },
+        "d2": {
+          "one-liner": "Art Education Specialist",
+          "disc": "Teaching and inspiring others to explore their artistic talents."
+        },
+        "d3": {
+          "one-liner": "Gallery Curator",
+          "disc": "Managing and curating art exhibitions to showcase emerging talents."
+        }
+      }
+    }
+  }
+}
